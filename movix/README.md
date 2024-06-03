@@ -1,7 +1,9 @@
-![Screenshot 2024-01-17 013404](https://github.com/rani151/movix/assets/150732920/13f49682-38b6-49eb-b0b3-bc5dab802660)# React + Vite
 
-#🚀 MOVIX  (![Screenshot 2024-01-17 013404](https://github.com/rani151/movix/assets/150732920/e2276141-d4e2-4d8a-a562-66767c146ff0)
-)
+
+#🚀 MOVIX  
+
+![Screenshot 2024-01-17 013404](https://github.com/rani151/movix/assets/150732920/e2276141-d4e2-4d8a-a562-66767c146ff0)
+
 
 
 #(URL "https://movix-rani15.netlify.app/")
