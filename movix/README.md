@@ -1,8 +1,32 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#🚀 MOVIX  
 
-Currently, two official plugins are available:
+![Screenshot 2024-01-17 013404]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+#(URL "https://movix-rani15.netlify.app/")
+
+📖 **Description**:MOVIX - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, with every section of web-app like  Trending , What's Popular, Top Rated , with infinite scrolling effect .
+
+This is best web-app for intracting with apis(TMDS) you can enjoy the trailor of all the movies have fun 🙃. 
+
+
+#⚙️ Tech Stack
+Vite
+React.js
+Tailwind CSS
+API
+
+
+
+#➡️Installation
+
+###npm install
+
+#➡️Running the Project🎉
+
+###npm run dev 
+
+
+
